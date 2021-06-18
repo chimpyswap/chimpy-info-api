@@ -3,14 +3,6 @@
 The ChimpySwap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com) to surface ChimpySwap liquidity
 and volume information. All information is fetched from the underlying subgraphs.
 
-## v1 Documentation
-
-The documentation of the endpoints, for ChimpySwap v1, can be found [here](v1-documentation.md).
-
-## v2 Documentation
-
-The documentation of the endpoints, for ChimpySwap v2, can be found [here](v2-documentation.md).
-
 ## Development
 
 ### Install requirements
